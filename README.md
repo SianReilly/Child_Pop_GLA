@@ -1,6 +1,6 @@
 # Population Projections Streamlit App
 
-Interactive visualization comparing Mid-Year Estimates (MYEs) with GLA 2024-based population projections.
+Interactive visualisation comparing Mid-Year Estimates (MYEs) with GLA 2024-based population projections.
 
 ## Features
 
